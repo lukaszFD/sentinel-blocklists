@@ -1,0 +1,5 @@
+# Title: Sentinel Blocklists - Tracking
+# Description: Tracking domains classified by AI and approved by a human.
+# Homepage: https://github.com/lukaszFD/sentinel-blocklists
+# Format: one domain per line, exact match
+# Entries: 0
