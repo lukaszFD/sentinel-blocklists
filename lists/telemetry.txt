@@ -2,4 +2,5 @@
 # Description: Telemetry domains classified by AI and approved by a human. May break vendor features (updates, sync).
 # Homepage: https://github.com/lukaszFD/sentinel-blocklists
 # Format: one domain per line, exact match
-# Entries: 0
+# Entries: 1
+telemetry.n8n.io
