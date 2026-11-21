@@ -2,6 +2,9 @@
 # Description: Domains confirmed malicious by the Cyber Sentinel pipeline (VirusTotal detections). Entries expire unless the domain is detected again.
 # Homepage: https://github.com/lukaszFD/sentinel-blocklists
 # Format: one domain per line, exact match
-# Entries: 2
+# Entries: 5
 fip01.clos.pl
+securityscorecards.dev
+ubports-ubuntu-touch-devices.netlify.app
+ubports-ubuntu-touch.netlify.app
 www.thevapingforum.com
