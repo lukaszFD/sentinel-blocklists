@@ -2,4 +2,11 @@
 # Description: Tracking domains classified by AI and approved by a human.
 # Homepage: https://github.com/lukaszFD/sentinel-blocklists
 # Format: one domain per line, exact match
-# Entries: 0
+# Entries: 7
+app-measurement.com
+hz16gb0.beacondb.net
+region1.analytics.google.com
+region1.app-measurement.com
+tracker-lb.ecdp.app
+www-alv.google-analytics.com
+www.google-analytics.com
