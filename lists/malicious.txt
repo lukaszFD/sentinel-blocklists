@@ -1,11 +1,12 @@
 # Title: Sentinel Blocklists - Malicious
-# Description: Domains confirmed malicious by the Cyber Sentinel pipeline (VirusTotal detections). Entries expire unless the domain is detected again.
+# Description: Domains confirmed malicious by the Cyber Sentinel pipeline (VirusTotal detections) and hosts with a threat-intelligence hit in the browser sandbox. Entries expire unless they are detected again.
 # Homepage: https://github.com/lukaszFD/sentinel-blocklists
 # Format: one domain per line, exact match
-# Entries: 6
+# Entries: 7
 fip01.clos.pl
 gymstar-media.netlify.app
 securityscorecards.dev
 ubports-ubuntu-touch-devices.netlify.app
 ubports-ubuntu-touch.netlify.app
+www.dropbox.com
 www.thevapingforum.com
